@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ann-churn-prediction.git
+   git clone https://github.com/tanrivertarik/ann-churn-prediction.git
    ```
 2. Navigate to the project directory:
    ```bash
