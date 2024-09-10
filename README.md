@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tanrivertarik/ann-churn-prediction.git
+   git clone [https://github.com/tanrivertarik/Artificial-Neural-Network-for-Churn-Prediction.git]
    ```
 2. Navigate to the project directory:
    ```bash
@@ -61,7 +61,7 @@ pip install -r requirements.txt
    ```
 3. Run the Jupyter notebook to train and evaluate the model:
    ```bash
-   jupyter notebook artificial_neural_network.ipynb
+   jupyter notebook ANN.ipynb
    ```
 
 Make sure to load the `Churn_Modelling.csv` file when prompted by the notebook.
